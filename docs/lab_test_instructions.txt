@@ -1,0 +1,67 @@
+CLINIC LAB TEST INSTRUCTIONS
+Document ID: LAB-INS-001
+Last Updated: January 2026
+Applies to: Greenfield Family Health Clinic, Lab and Diagnostic Services
+
+This document describes clinic administrative procedures for common lab tests: how to
+prepare logistically, what to bring, and how results are delivered. It does not provide
+medical interpretation of results or diagnostic guidance. Result interpretation must always
+be discussed with your ordering physician.
+
+1. GENERAL LAB VISIT INSTRUCTIONS
+1.1 Bring a valid photo ID and your clinic patient card (or patient portal QR code) to every
+    lab visit.
+1.2 Lab requisition forms must be issued by a clinic physician before a walk-in sample
+    collection, except for the self-pay basic panel described in Section 5.
+1.3 Lab Services operates Monday-Saturday 7:00 AM-7:00 PM, and Sunday 8:00 AM-12:00 PM
+    for urgent tests only, per the Doctor Schedule document.
+
+2. FASTING BLOOD TESTS (e.g., Fasting Blood Sugar, Lipid Profile)
+2.1 Patients should not eat or drink anything except plain water for 8-12 hours before the
+    test, as instructed by the ordering physician.
+2.2 Routine medications may generally be taken with water unless the physician has
+    specifically instructed otherwise; the lab desk cannot advise on medication timing.
+2.3 Morning appointments (7:00 AM-10:00 AM) are recommended for fasting tests for
+    patient convenience.
+
+3. NON-FASTING BLOOD TESTS (e.g., CBC, Thyroid Panel)
+3.1 No fasting is required. Patients may eat and drink normally before the test unless
+    otherwise instructed by their physician.
+
+4. URINE AND STOOL SAMPLE COLLECTION
+4.1 Sterile collection containers are provided at the lab desk with printed labeling
+    instructions.
+4.2 Samples collected at home must be delivered to the lab within 2 hours of collection
+    and kept at room temperature unless otherwise instructed.
+4.3 Female patients should inform the lab technician if a urine test is requested during
+    menstruation, as this may affect scheduling but not eligibility for the test.
+
+5. SELF-PAY BASIC PANEL
+5.1 Patients may request a basic self-pay panel (CBC, Fasting Blood Sugar, Lipid Profile)
+    without a physician requisition, payable at the time of service per the Fee Schedule.
+5.2 Self-pay panel results are still recommended to be reviewed with a physician; the lab
+    desk cannot interpret results at the time of collection.
+
+6. RESULT DELIVERY
+6.1 Routine lab results are typically available within 24-48 hours and are posted to the
+    patient portal automatically.
+6.2 Urgent/STAT tests ordered by a physician are typically available within 2-4 hours and
+    the ordering physician is notified directly.
+6.3 Some specialized send-out tests (e.g., certain hormone panels, genetic tests) may take
+    5-10 business days; the lab desk will inform the patient of expected turnaround at the
+    time of sample collection.
+6.4 Results are not given verbally over the phone for privacy reasons. Patients must access
+    results via the patient portal or in person with valid ID.
+
+7. RESCHEDULING A LAB VISIT
+7.1 Lab appointments tied to a fasting requirement should be rescheduled through the front
+    desk or patient portal at least 4 hours in advance, consistent with the clinic's general
+    Appointment Policy.
+
+8. IMPORTANT NOTE
+8.1 This document covers logistics only. Questions about what a specific test measures,
+    what results mean, or whether a test is medically necessary must be directed to a
+    licensed physician and are outside the scope of clinic administrative staff or this
+    document.
+
+END OF DOCUMENT

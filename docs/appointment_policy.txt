@@ -1,0 +1,63 @@
+CLINIC APPOINTMENT POLICY
+Document ID: POL-APT-001
+Last Updated: January 2026
+Applies to: Greenfield Family Health Clinic, all departments
+
+1. BOOKING AN APPOINTMENT
+1.1 Appointments can be booked through the clinic's front desk (Mon-Sat, 8:00 AM - 6:00 PM),
+    via the patient portal (24/7), or by phone at the main clinic line.
+1.2 New patients must complete a registration form at least 24 hours before their first
+    appointment, either online or in person.
+1.3 Same-day appointments are available on a limited basis for General Medicine and are
+    subject to physician availability. Same-day slots open at 8:00 AM each day.
+1.4 Specialist appointments (Cardiology, Dermatology, Orthopedics, Pediatrics, ENT) require
+    a referral from a General Medicine physician unless the patient is a returning specialist
+    patient within the last 12 months.
+
+2. APPOINTMENT TYPES
+2.1 New Patient Consultation - 30 minutes
+2.2 Follow-up Visit - 15 minutes
+2.3 Specialist Consultation - 30-45 minutes depending on department
+2.4 Annual Physical Examination - 45 minutes
+2.5 Minor Procedure Visit - 30-60 minutes depending on procedure
+2.6 Telehealth Consultation - 20 minutes (available for follow-ups only, not new patients)
+
+3. RESCHEDULING AND CANCELLATION
+3.1 Patients may reschedule or cancel an appointment free of charge up to 4 hours before
+    the scheduled time.
+3.2 Cancellations made less than 4 hours before the appointment, or no-shows, may incur a
+    cancellation fee as outlined in the Fee Schedule document.
+3.3 Patients with three or more consecutive no-shows within a 12-month period may be
+    required to prepay for future appointments.
+3.4 To reschedule, patients should use the patient portal or call the front desk. Rescheduling
+    requests are not accepted via email for security reasons.
+
+4. LATE ARRIVALS
+4.1 Patients arriving more than 15 minutes late for a standard appointment may be asked to
+    reschedule to avoid delaying subsequent patients.
+4.2 Patients arriving late for a same-day slot may lose their reserved slot if another patient
+    is available to be seen.
+
+5. WAITLIST
+5.1 Patients may join a waitlist for earlier openings with a specific physician. Waitlist
+    notifications are sent automatically via SMS or the patient portal when a slot opens.
+5.2 Waitlist offers must be confirmed within 30 minutes or the slot is offered to the next
+    patient on the list.
+
+6. WALK-INS
+6.1 Walk-in patients are accepted for General Medicine only and are seen after all
+    scheduled patients, based on availability and triage priority.
+6.2 Walk-ins requiring urgent attention are triaged by a nurse and may be seen ahead of
+    the queue based on clinical urgency, not arrival order.
+
+7. ACCOMPANYING VISITORS
+7.1 Patients may bring one accompanying adult to appointments. Additional visitors may be
+    asked to wait in the reception area due to space constraints.
+7.2 Pediatric patients must be accompanied by a parent or legal guardian at all times.
+
+8. CONTACT FOR APPOINTMENT ISSUES
+8.1 For appointment-related questions not covered in this document, patients should contact
+    the front desk directly. This document does not cover clinical or diagnostic questions,
+    which must be addressed by a licensed physician during a consultation.
+
+END OF DOCUMENT

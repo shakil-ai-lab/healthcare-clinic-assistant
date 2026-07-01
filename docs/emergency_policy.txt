@@ -1,0 +1,60 @@
+CLINIC EMERGENCY POLICY
+Document ID: POL-EMR-001
+Last Updated: January 2026
+Applies to: Greenfield Family Health Clinic
+
+This document describes how Greenfield Family Health Clinic handles emergency situations
+during clinic hours and provides guidance on when to seek emergency care elsewhere. This
+document is administrative in nature and is not a substitute for professional medical
+judgment. If you are experiencing a medical emergency, call your local emergency number
+or go to the nearest emergency room immediately rather than waiting for a clinic response.
+
+1. SCOPE OF CLINIC EMERGENCY CAPABILITY
+1.1 Greenfield Family Health Clinic is an outpatient primary and specialist care facility.
+    It is NOT an emergency room and does not have trauma, ICU, or 24/7 emergency
+    department capabilities.
+1.2 The clinic can provide initial stabilization and first aid for certain urgent situations
+    during clinic operating hours, but serious or life-threatening conditions must be
+    directed to a hospital emergency department.
+
+2. SITUATIONS REQUIRING IMMEDIATE EMERGENCY SERVICES (NOT THE CLINIC)
+2.1 Examples of situations that require calling emergency services or going directly to an
+    emergency room include, but are not limited to: chest pain, difficulty breathing,
+    severe bleeding, signs of stroke, loss of consciousness, severe allergic reactions,
+    major trauma, suspected poisoning, or any situation the patient perceives as
+    life-threatening.
+2.2 Clinic staff, including front desk and administrative personnel, are instructed to direct
+    any patient describing these symptoms to call emergency services immediately rather
+    than waiting for a clinic appointment.
+
+3. DURING CLINIC HOURS
+3.1 Patients experiencing an urgent but non-life-threatening issue during clinic hours
+    (Monday-Saturday, per posted hours) should inform the front desk immediately upon
+    arrival; urgent cases are triaged ahead of the regular queue by clinical staff.
+3.2 The clinic maintains basic first-aid and stabilization equipment for use by clinical
+    staff while arranging emergency transport if needed.
+
+4. OUTSIDE CLINIC HOURS
+4.1 The clinic does not operate an after-hours or on-call emergency line. Patients with
+    urgent concerns outside clinic hours should contact emergency services or visit the
+    nearest emergency room.
+4.2 The patient portal and phone lines are not monitored for emergencies outside posted
+    clinic hours.
+
+5. AMBULANCE AND TRANSFER
+5.1 If a patient's condition requires transfer to a hospital, clinic staff will call for
+    ambulance transport and provide relevant clinic records to the receiving facility with
+    patient consent where possible.
+
+6. WHAT THIS DOCUMENT DOES NOT COVER
+6.1 This document does not provide medical guidance on diagnosing an emergency, does not
+    replace clinical judgment, and must never be used to decide whether a specific
+    individual's situation is an emergency. When in doubt, treat the situation as an
+    emergency and seek immediate care.
+6.2 Any AI assistant, staff member, or automated system referencing this document must
+    not attempt to diagnose the severity of a patient's symptoms. If a patient describes
+    anything resembling emergency symptoms, the correct response is always to direct them
+    to call emergency services or go to the nearest emergency room, without delay or
+    further questioning.
+
+END OF DOCUMENT

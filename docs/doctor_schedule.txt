@@ -1,0 +1,78 @@
+CLINIC DOCTOR SCHEDULE
+Document ID: SCH-DOC-001
+Last Updated: January 2026
+Applies to: Greenfield Family Health Clinic
+
+1. GENERAL MEDICINE
+
+Dr. Sarah Malik, MD (General Medicine)
+  Monday - Friday: 9:00 AM - 5:00 PM
+  Saturday: 9:00 AM - 1:00 PM
+  Sunday: Closed
+  Location: Main Building, Floor 1, Room 104
+
+Dr. Ahmed Raza, MD (General Medicine)
+  Monday, Wednesday, Friday: 10:00 AM - 6:00 PM
+  Tuesday, Thursday: 8:00 AM - 2:00 PM
+  Saturday: Closed
+  Location: Main Building, Floor 1, Room 106
+
+2. PEDIATRICS
+
+Dr. Ayesha Khan, MD (Pediatrics)
+  Monday - Thursday: 9:00 AM - 4:00 PM
+  Friday: 9:00 AM - 12:00 PM
+  Weekends: Closed
+  Location: Main Building, Floor 2, Room 210
+
+3. CARDIOLOGY
+
+Dr. Imran Siddiqui, MD (Cardiology)
+  Tuesday, Thursday: 10:00 AM - 5:00 PM
+  Saturday: 10:00 AM - 1:00 PM (by appointment only, referral required)
+  Location: Specialist Wing, Floor 3, Room 305
+
+4. DERMATOLOGY
+
+Dr. Fatima Noor, MD (Dermatology)
+  Monday, Wednesday: 11:00 AM - 6:00 PM
+  Location: Specialist Wing, Floor 3, Room 310
+
+5. ORTHOPEDICS
+
+Dr. Bilal Hussain, MD (Orthopedics)
+  Wednesday, Friday: 9:00 AM - 3:00 PM
+  Location: Specialist Wing, Floor 3, Room 315
+
+6. ENT (EAR, NOSE, THROAT)
+
+Dr. Nadia Farooq, MD (ENT)
+  Tuesday: 9:00 AM - 1:00 PM
+  Thursday: 1:00 PM - 5:00 PM
+  Location: Specialist Wing, Floor 3, Room 318
+
+7. LAB AND DIAGNOSTIC SERVICES
+
+Lab Services Desk
+  Monday - Saturday: 7:00 AM - 7:00 PM
+  Sunday: 8:00 AM - 12:00 PM (urgent tests only)
+  Location: Main Building, Ground Floor, Room 003
+
+8. HOLIDAYS AND CLOSURES
+8.1 The clinic is closed on all designated national public holidays. A revised holiday
+    schedule is posted at the front desk and on the patient portal each year in December.
+8.2 Individual physician schedules are subject to change due to leave, training, or
+    emergencies. Patients should confirm appointment times through the patient portal
+    or front desk before traveling to the clinic.
+
+9. SPECIALIST AVAILABILITY NOTE
+9.1 Specialist physicians see patients strictly by appointment. Availability listed above
+    reflects general clinic hours for that specialist and does not guarantee an open slot;
+    actual appointment slots depend on current bookings.
+
+10. SCHEDULE CHANGE REQUESTS
+10.1 Requests to see a specific doctor outside their listed hours are not accommodated.
+     Patients preferring a different schedule may be offered an alternate physician within
+     the same department when available.
+
+END OF DOCUMENT
