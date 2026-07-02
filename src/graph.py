@@ -1,33 +1,45 @@
 from typing import TypedDict
 
 from langgraph.graph import StateGraph, START, END
+from langgraph.checkpoint.memory import MemorySaver
 
 from src.agent import get_agent
 
 
-# Define the graph state
+# ==========================================================
+# Graph State
+# ==========================================================
+
 class GraphState(TypedDict):
     question: str
     answer: str
 
 
-# Load agent
+# ==========================================================
+# Load Agent
+# ==========================================================
+
 agent = get_agent()
 
 
-# -----------------------------
-# Node 1
-# -----------------------------
-def receive_question(state: GraphState):
+# ==========================================================
+# Node 1 : Receive Question
+# ==========================================================
 
-    print("Receiving user question...")
+def receive_question(state: GraphState) -> GraphState:
+    """
+    Receive the user's question.
+    """
+
+    print("\nReceiving user question...\n")
 
     return state
 
 
-# -----------------------------
-# Node 2
-# -----------------------------
+# ==========================================================
+# Node 2 : Execute Agent
+# ==========================================================
+
 def agent_executor(state: GraphState):
 
     question = state["question"]
@@ -50,30 +62,38 @@ def agent_executor(state: GraphState):
     }
 
 
-# -----------------------------
-# Node 3
-# -----------------------------
-def save_memory(state: GraphState):
+# ==========================================================
+# Node 3 : Save Memory
+# ==========================================================
 
-    # Placeholder
-    # Later we'll integrate LangGraph memory here
+def save_memory(state: GraphState) -> GraphState:
+    """
+    Placeholder node.
 
-    print("Saving conversation...")
+    Conversation state is automatically saved by
+    LangGraph's MemorySaver checkpointer.
+    """
 
-    return state
-
-
-# -----------------------------
-# Node 4
-# -----------------------------
-def final_answer(state: GraphState):
-
-    print("Returning final answer...")
+    print("Conversation saved.\n")
 
     return state
 
 
+# ==========================================================
+# Node 4 : Final Answer
+# ==========================================================
+
+def final_answer(state: GraphState) -> GraphState:
+
+    print("Returning final answer...\n")
+
+    return state
+
+
+# ==========================================================
 # Build Graph
+# ==========================================================
+
 builder = StateGraph(GraphState)
 
 builder.add_node("receive_question", receive_question)
@@ -87,17 +107,48 @@ builder.add_edge("agent_executor", "save_memory")
 builder.add_edge("save_memory", "final_answer")
 builder.add_edge("final_answer", END)
 
-graph = builder.compile()
 
+# ==========================================================
+# Memory
+# ==========================================================
+
+memory = MemorySaver()
+
+
+# ==========================================================
+# Compile Graph
+# ==========================================================
+
+graph = builder.compile(
+    checkpointer=memory
+)
+
+
+# ==========================================================
+# Test
+# ==========================================================
 
 if __name__ == "__main__":
 
-    result = graph.invoke(
-        {
-            "question": "How can I book an appointment?"
+    config = {
+        "configurable": {
+            "thread_id": "patient_001"
         }
-    )
+    }
 
-    print("\nAssistant:\n")
+    while True:
 
-    print(result["answer"])
+        question = input("\nYou : ")
+
+        if question.lower() in ["exit", "quit"]:
+            break
+
+        result = graph.invoke(
+            {
+                "question": question
+            },
+            config=config
+        )
+
+        print("\nAssistant :")
+        print(result["answer"])
